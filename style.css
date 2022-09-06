@@ -5,6 +5,7 @@
   background: url("images/bg-hero-desktop.svg"), hsl(209, 69%, 51%);
   background-position: center;
   background-size: cover;
+  min-height:100vh;
 }
 .head {
   display: flex;
